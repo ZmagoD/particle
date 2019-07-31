@@ -6,11 +6,11 @@ description: ZmagoD | Ruby on Rails / React developer
 
 # User settings
 username: ZmagoD
-user_description: Ruby on Rails / React developer, coffee addict, foodie, Belgian beers lover,...
+user_description: Ruby on Rails / React developer, Elixir enthusiast,..
 user_title: Software Developer
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-144906906-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
